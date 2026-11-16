@@ -4,7 +4,7 @@ Benjamin Hansen, "Punishment and Deterrence: Evidence from Drunk Driving," *Amer
 
 ## The question
 
-Hansen asks a simple question: does harsher punishment stop people from committing the same crime again? Economic theory says it should, but this is hard to test. People who get harsher punishments are usually different from people who get lighter ones, so you can't just compare the two groups. Drunk driving is a good place to test it. In Washington State, the punishment depends on a breath test number, not on a judge's opinion. The punishments are mostly fines, short jail stays and losing your licence. None of these keeps someone off the road for long, so if people reoffend less, it is likely because they were deterred. The question also matters for policy. In 2013 the NTSB proposed lowering the legal limit from 0.08 to 0.05, and Hansen's results speak to whether that would work.
+Hansen asks a simple question of does harsher punishment stop people from committing the same crime again? Economic theory says it should, but this is hard to test. People who get harsher punishments are usually different from people who get lighter ones, so you can't just compare the two groups. Drunk driving is a good place to test it. In Washington State, the punishment depends on a breath test number, not on a judge's opinion. The punishments are mostly fines, short jail stays and losing your licence. None of these keeps someone off the road for long, so if people reoffend less, it is likely because they were deterred. The question also matters for policy. In 2013 the NTSB proposed lowering the legal limit from 0.08 to 0.05, and Hansen's results speak to whether that would work.
 
 ## What was believed before
 
